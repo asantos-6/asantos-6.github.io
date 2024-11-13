@@ -1,5 +1,7 @@
 title: "André C. Santos"
 description: "Portfólio em Música, IA e Informática"
 theme: minima  # ou o tema que escolheres
+social_links:
+  - twitter: "https://x.com/SantoAndre_6"
 header_pages:
   - publications.md
