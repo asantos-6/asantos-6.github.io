@@ -1,3 +1,5 @@
 title: "André C. Santos"
 description: "Portfólio em Música, IA e Informática"
 theme: minima  # ou o tema que escolheres
+header_pages:
+  - publications.md
