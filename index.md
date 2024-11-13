@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-![Foto de Perfil]({{ site.baseurl }}/assets/images/profile.jpg)
+<img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Foto de Perfil" style="width:150px; border-radius:50%;">
 
 
 ### PhD Candidate @ CISUC, Coimbra, Portugal :flag: Portugal:
