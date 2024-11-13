@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+[Publicações](/publications/)
 ---
 
 <img src="{{ site.baseurl }}/assets/images/profile.jpg" alt="Foto de Perfil" style="width:150px; border-radius:50%;">
