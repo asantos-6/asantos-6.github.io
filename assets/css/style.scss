@@ -1,0 +1,14 @@
+.social-icons {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
+
+.social-icons li {
+  display: inline-block;
+}
+
+.social-icons a {
+  text-decoration: none;
+  color: inherit;
+}
