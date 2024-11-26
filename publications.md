@@ -4,9 +4,9 @@ title: "Publications"
 permalink: /publications/
 ---
 
-## 2023
+**2023**
 
-- [Short paper: From Taps to Drums: Audio-to-audio Percussion Style Transfer (ISMIR 2023)](https://cdv.dei.uc.pt/wp-content/uploads/publications-cdv/santos2023taps.pdf)\
+- [From Taps to Drums: Audio-to-audio Percussion Style Transfer (ISMIR 2023)](https://cdv.dei.uc.pt/wp-content/uploads/publications-cdv/santos2023taps.pdf)\
 *André C. Santos, Amílcar Cardoso*
     <details>
     <summary>Abstract</summary>
@@ -14,16 +14,16 @@ permalink: /publications/
     In this late-breaking demo, we explore this interaction by leveraging the style transfer capabilities of a neural audio synthesis model by training it on a drum dataset and feeding it tapped rhythm recordings at inference time. We also provide a concise and high-level overview of the results, which, in our assessment, not only justify further research but also establish an intriguing baseline for future investigations. Finally, we point out several future research directions.
     </details>
 
-- [Full paper: Focusing on artists’ needs: Using a cultural probe for artist-centred creative software development (ICCC 2023)](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_38.pdf)\
+- [Focusing on artists’ needs: Using a cultural probe for artist-centred creative software development (ICCC 2023)](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_38.pdf)\
 *Luís Espírito Santo, André C. Santos, Marcio Lima Inácio*
     <details>
     <summary>Abstract</summary>
     One of the ultimate goals of Computational Creativity research is to make novel, better, and useful software that can be used for creative purposes. The new wave of learning-endowed generative systems has highlighted the potential of AI for creative tasks, so demand for creative software development is expected to grow significantly, which in turn entails the need for adapted software engineering techniques. We conducted interviews and used a digital cultural probe that posed as a virtual co-creative companion with unlimited capabilities to collect qualitative data on how creative fellows, from different areas and with no knowledge about generative models, would use an ideal piece of creative software. By following an Inductive Thematic Analysis, we bring forward a set of domain-agnostic patterns of how software can help in creative tasks. These themes-12 user needs and 8 contexts of use-can be used to organise functional requirements to sustain an improved usercentred development of creative tools, or might even be used as a classification framework for creativity tools and co-creative systems. Finally, we discuss the benefits and limitations of our methodology that can be repurposed for a more suited and artist-centred initial process of functional requirement gathering.
     </details>
 
-## 2022
+**2022**
 
-- [Short paper: Co-creative Musical Repurposing by Modelling Rhythmic Compatibility (ICCC 2022)](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ANDRE%CC%81_SANTOS_DC_research_summary.pdf)\
+- [Co-creative Musical Repurposing by Modelling Rhythmic Compatibility (ICCC 2022)](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ANDRE%CC%81_SANTOS_DC_research_summary.pdf)\
 *André C. Santos, Matthew E. P. Davies, Amílcar Cardoso*
     <details>
     <summary>Abstract</summary>
@@ -48,9 +48,9 @@ permalink: /publications/
     content personalization.
     </details>
 
-## 2021
+**2021**
 
-- [Full paper: MuSyFI-Music Synthesis From Images (ICCC 2021)](https://www.researchgate.net/profile/Andre-Santos-60/publication/360791329_MuSyFI_-_Music_Synthesis_From_Images/links/628ba00339fa217031682ab9/MuSyFI-Music-Synthesis-From-Images.pdf)\
+- [MuSyFI-Music Synthesis From Images (ICCC 2021)](https://www.researchgate.net/profile/Andre-Santos-60/publication/360791329_MuSyFI_-_Music_Synthesis_From_Images/links/628ba00339fa217031682ab9/MuSyFI-Music-Synthesis-From-Images.pdf)\
 *André C. Santos, H. Sofia Pinto, Rui Pereira Jorge, Nuno Correia*.
     <details>
     <summary>Abstract</summary>
