@@ -1,6 +1,12 @@
 title: "André C. Santos"
-description: "Portfólio em Música, IA e Informática"
+author: "André C. Santos"
+email: andresantos@dei.uc.pt
+description: >
+  *"You can't really imagine music* 🎵 <br>
+               *without technology* 💻*."* - Brian Eno
 theme: minima  # ou o tema que escolheres
-social_links:
-  - { platform: twitter, user_url: "https://x.com/SantoAndre_6" }
-  - publications.md
+header_pages: 
+- index.md
+- publications.md
+twitter_username: SantoAndre_6
+github_username: asantos-6

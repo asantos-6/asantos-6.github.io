@@ -7,7 +7,7 @@ permalink: /publications/
 **2023**
 
 - [From Taps to Drums: Audio-to-audio Percussion Style Transfer (ISMIR 2023)](https://cdv.dei.uc.pt/wp-content/uploads/publications-cdv/santos2023taps.pdf)\
-*André C. Santos, Amílcar Cardoso*
+***André C. Santos***, *Amílcar Cardoso*
     <details>
     <summary>Abstract</summary>
     A common, and arguably innate, human response when listening to music is to tap one’s foot to mark the regular pulse of the beat. A more complex form of interactive synchronization occurs when listeners tap out rhythmic patterns using their fingers, hands, or even some form of improvised drumsticks.
@@ -15,7 +15,7 @@ permalink: /publications/
     </details>
 
 - [Focusing on artists’ needs: Using a cultural probe for artist-centred creative software development (ICCC 2023)](https://computationalcreativity.net/iccc23/papers/ICCC-2023_paper_38.pdf)\
-*Luís Espírito Santo, André C. Santos, Marcio Lima Inácio*
+*Luís Espírito Santo,* ***André C. Santos***, *Marcio Lima Inácio*
     <details>
     <summary>Abstract</summary>
     One of the ultimate goals of Computational Creativity research is to make novel, better, and useful software that can be used for creative purposes. The new wave of learning-endowed generative systems has highlighted the potential of AI for creative tasks, so demand for creative software development is expected to grow significantly, which in turn entails the need for adapted software engineering techniques. We conducted interviews and used a digital cultural probe that posed as a virtual co-creative companion with unlimited capabilities to collect qualitative data on how creative fellows, from different areas and with no knowledge about generative models, would use an ideal piece of creative software. By following an Inductive Thematic Analysis, we bring forward a set of domain-agnostic patterns of how software can help in creative tasks. These themes-12 user needs and 8 contexts of use-can be used to organise functional requirements to sustain an improved usercentred development of creative tools, or might even be used as a classification framework for creativity tools and co-creative systems. Finally, we discuss the benefits and limitations of our methodology that can be repurposed for a more suited and artist-centred initial process of functional requirement gathering.
@@ -24,7 +24,7 @@ permalink: /publications/
 **2022**
 
 - [Co-creative Musical Repurposing by Modelling Rhythmic Compatibility (ICCC 2022)](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ANDRE%CC%81_SANTOS_DC_research_summary.pdf)\
-*André C. Santos, Matthew E. P. Davies, Amílcar Cardoso*
+***André C. Santos***, *Matthew E. P. Davies, Amílcar Cardoso*
     <details>
     <summary>Abstract</summary>
     A common, and arguably innate, human response when
@@ -51,7 +51,7 @@ permalink: /publications/
 **2021**
 
 - [MuSyFI-Music Synthesis From Images (ICCC 2021)](https://www.researchgate.net/profile/Andre-Santos-60/publication/360791329_MuSyFI_-_Music_Synthesis_From_Images/links/628ba00339fa217031682ab9/MuSyFI-Music-Synthesis-From-Images.pdf)\
-*André C. Santos, H. Sofia Pinto, Rui Pereira Jorge, Nuno Correia*.
+***André C. Santos***, *H. Sofia Pinto, Rui Pereira Jorge, Nuno Correia.*
     <details>
     <summary>Abstract</summary>
     MuSyFI is a system that tries to model an inspirational

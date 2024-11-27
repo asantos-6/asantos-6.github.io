@@ -12,3 +12,14 @@
   text-decoration: none;
   color: inherit;
 }
+
+.description-text {
+  text-align: center; /* Centraliza todo o texto */
+  line-height: 1.5;   /* Ajusta o espaçamento entre linhas */
+}
+
+.description-text span {
+  display: block;     /* Emojis em blocos separados */
+  margin-top: 5px;    /* Espaçamento vertical entre os emojis */
+  font-size: 1.2em;   /* Opcional: Aumenta o tamanho dos emojis */
+}
